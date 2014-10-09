@@ -175,7 +175,7 @@
         <header-file src="src/ios/Airship/External/UA_Base64.h"  />
         <header-file src="src/ios/Airship/External/UA_Reachability.h"  />
 
-        <source-file src="src/ios/Airship/libUAirship-4.0.0.a" framework="true"/>
+        <source-file src="src/ios/Airship/libUAirship-4.0.2.a” framework="true"/>
 
         <!-- system frameworks -->
         <framework src="libsqlite3.dylib" />
