@@ -290,6 +290,8 @@
 
 
         <!-- UI Resource files -->
+        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/Settings.bundle" />
+
         <source-file src="src/ios/Airship/libUAirship-6.1.0.a" framework="true"/>
 
         <!-- system frameworks -->
